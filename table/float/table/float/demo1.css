@@ -1,0 +1,41 @@
+
+.saluni{
+    width: 900px;
+    height: 700px;
+    background: rgb(203, 70, 92);
+    margin: auto;
+   
+}
+
+.salu{
+    width:350px;
+    height: 350px;
+    background: rgb(14, 129, 167);
+     display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+    float: left;
+}
+   
+.box{
+    width: 150px;
+    height: 150px;
+    background: rgb(198, 125, 6);
+    margin-top: 100px;
+}
+.box0{
+    width: 150px;
+    height: 150px;
+    background: rgb(240, 84, 170);
+    margin-top: 100px;
+}
+.box1{
+    width: 350px;
+    height: 350px;
+    background: rgb(207, 99, 56);
+    margin-top: 150px ;
+    float: right;
+   
+}
+   
+    
